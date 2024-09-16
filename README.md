@@ -1,3 +1,4 @@
-# titulo do meu projeto
+# Estudando commit
 
-Descrição do meu projeto.
+Repositório criado apenas para aplicar ensinamentos sobre commit.
+
